@@ -1,0 +1,11 @@
+C:\Users\abcdv\OneDrive\Desktop\c#projict\HomeWork3Exercise1\bin\Debug\HomeWork3Exercise1.exe.config
+C:\Users\abcdv\OneDrive\Desktop\c#projict\HomeWork3Exercise1\bin\Debug\HomeWork3Exercise1.exe
+C:\Users\abcdv\OneDrive\Desktop\c#projict\HomeWork3Exercise1\bin\Debug\HomeWork3Exercise1.pdb
+C:\Users\abcdv\OneDrive\Desktop\c#projict\HomeWork3Exercise1\obj\Debug\HomeWork3Exercise1.csproj.AssemblyReference.cache
+C:\Users\abcdv\OneDrive\Desktop\c#projict\HomeWork3Exercise1\obj\Debug\HomeWork3Exercise1.csproj.SuggestedBindingRedirects.cache
+C:\Users\abcdv\OneDrive\Desktop\c#projict\HomeWork3Exercise1\obj\Debug\HomeWork3Exercise1.Form1.resources
+C:\Users\abcdv\OneDrive\Desktop\c#projict\HomeWork3Exercise1\obj\Debug\HomeWork3Exercise1.Properties.Resources.resources
+C:\Users\abcdv\OneDrive\Desktop\c#projict\HomeWork3Exercise1\obj\Debug\HomeWork3Exercise1.csproj.GenerateResource.cache
+C:\Users\abcdv\OneDrive\Desktop\c#projict\HomeWork3Exercise1\obj\Debug\HomeWork3Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\abcdv\OneDrive\Desktop\c#projict\HomeWork3Exercise1\obj\Debug\HomeWork3Exercise1.exe
+C:\Users\abcdv\OneDrive\Desktop\c#projict\HomeWork3Exercise1\obj\Debug\HomeWork3Exercise1.pdb
